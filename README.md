@@ -52,6 +52,8 @@ price box's HTML, so the price box's own block cache is untouched.
 
 Not yet: the cart and checkout lines.
 
+What changed in each release: [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 OSL-3.0 or AFL-3.0, your choice: see `NOTICE.md`.
